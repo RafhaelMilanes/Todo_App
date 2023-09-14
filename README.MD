@@ -14,9 +14,7 @@ Este projeto é uma aplicação móvel construída com a plataforma Expo, que of
 
 ## 🎥 Apresentação 
 
-
-
-
+https://github.com/RafhaelMilanes/Todo_App/assets/127360190/030c7970-f33b-47a4-9f88-e97e06d5caf1
 
 ## 🚀Tecnologias Utilizadas:
 
