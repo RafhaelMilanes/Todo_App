@@ -14,9 +14,11 @@ Este projeto é uma aplicação móvel construída com a plataforma Expo, que of
 
 ## 🎥 Apresentação 
 
-<p align="center">
-  <video alt="License" src="./assets/videoapp.mp4">.</video>
-</p>
+<video width="320" height="240" controls>
+  <source src="./assets/videoapp.mp4" type="video/mp4">
+</video>
+
+
 
 ## 🚀Tecnologias Utilizadas:
 
